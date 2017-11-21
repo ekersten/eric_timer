@@ -1,0 +1,23 @@
+{
+  "name": "eric_timer",
+  "version": "1.0.0",
+  "description": "Sample npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekersten/eric_timer.git"
+  },
+  "keywords": [
+    "timer",
+    "package"
+  ],
+  "author": "Eric Kersten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekersten/eric_timer/issues"
+  },
+  "homepage": "https://github.com/ekersten/eric_timer#readme"
+}
