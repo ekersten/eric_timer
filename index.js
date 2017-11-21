@@ -1,3 +1,3 @@
 exports.eric_timer = function() {
-  console.log(new Date());
+  console.log("la fecha es: " + new Date());
 }
